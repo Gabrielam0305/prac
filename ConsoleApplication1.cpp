@@ -18,7 +18,7 @@ int main(){
     cout << endl << "i= " << (char)i << ", c= ";
     c++;
     cout << (int)c<< ", f= " << (char)((int)f) << endl;
-    cout << (int)c << ", hola= " << (char)((int)f) << endl;
+    cout << " girl";
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
